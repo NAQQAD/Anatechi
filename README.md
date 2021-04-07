@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anass Naqqad
 - 👀 I’m interested in CyberSecurity and Data Science
 - 🌱 I’m currently learning CyberSecurity
-- 📫 How to reach me: facebook.com/naqqad linkedin.com/naqqad
+- 📫 How to reach me: facebook.com/naqqad linkedin.com/in/naqqad
 
 <!---
 Anatechi/Anatechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
